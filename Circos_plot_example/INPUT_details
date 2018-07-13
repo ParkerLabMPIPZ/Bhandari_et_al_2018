@@ -1,0 +1,6 @@
+INPUT:
+1. put AGI codes for each geneset in a separate tabdelim file, all files should be in the folder "genesets_for_overlap" (see INPUT folder)
+2. open script circus_plot_semiautomatic_overlap_in_text_v2.R in R
+2. In the script, provide name of the file with geneIDs from above, which contains gene codes for the main set for checking overlaps (one per plot)
+3. In the script, provide name of the output pdf file (in example "test.pdf")
+4. run the rest of the script
